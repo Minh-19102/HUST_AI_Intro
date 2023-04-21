@@ -38,7 +38,7 @@
     "19": {"x": 21.040479, "y": 105.849207, "streetList": [6, 9]}
   },
   "road":
-    [        
+    [
       {
         "point1": 1,
         "point2": 2,
@@ -55,99 +55,99 @@
         "oneWayRoad": 1  
       },
       {
-          "point1": 2,
-          "point2": 4,
-          "oneWayRoad": -1  
-        },
-        {
-          "point1": 2,
-          "point2": 5,
-          "oneWayRoad": 0 
-        },
-        {
-          "point1": 5,
-          "point2": 6,
-          "oneWayRoad": 0   
-        },
-        {
-          "point1": 6,
-          "point2": 7,
-          "oneWayRoad": 1  
-        },
-        {
-          "point1": 7,
-          "point2": 8,
-          "oneWayRoad": 1
-        },
-        {
-          "point1": 9,
-          "point2": 10,
-          "oneWayRoad": 1
-        },
-        {
-          "point1": 5,
-          "point2": 11,
-          "oneWayRoad": 0 
-        },
-        {
-          "point1": 9,
-          "point2": 11,
-          "oneWayRoad": 0  
-        },
-        {
-          "point1": 10,
-          "point2": 12,
-          "oneWayRoad": -1 
-        },
-        {
-          "point1": 13,
-          "point2": 14,
-          "oneWayRoad": 0   
-        },
-        {
-          "point1": 7,
-          "point2": 13,
-          "oneWayRoad": 0  
-        },
-        {
-          "point1": 7,
-          "point2": 13,
-          "oneWayRoad": 0
-        },
-        {
-          "point1": 13,
-          "point2": 14,
-          "oneWayRoad":  0
-        },
-        {
-          "point1": 5,
-          "point2": 15,
-          "oneWayRoad":  0
-        },
-        {
-          "point1": 15,
-          "point2": 16,
-          "oneWayRoad": 0  
-        },
-        {
-          "point1": 15,
-          "point2": 17,
-          "oneWayRoad": 0  
-        },
-        {
-          "point1": 17,
-          "point2": 18,
-          "oneWayRoad": 0  
-        },
-        {
-          "point1": 12,
-          "point2": 19,
-          "oneWayRoad": -1  
-        },
-        {
-          "point1": 14,
-          "point2": 19,
-          "oneWayRoad": 0 
-        }
+        "point1": 2,
+        "point2": 4,
+        "oneWayRoad": -1  
+      },
+      {
+        "point1": 2,
+        "point2": 5,
+        "oneWayRoad": 0 
+      },
+      {
+        "point1": 5,
+        "point2": 6,
+        "oneWayRoad": 0   
+      },
+      {
+        "point1": 6,
+        "point2": 7,
+        "oneWayRoad": 1  
+      },
+      {
+        "point1": 7,
+        "point2": 8,
+        "oneWayRoad": 1
+      },
+      {
+        "point1": 9,
+        "point2": 10,
+        "oneWayRoad": 1
+      },
+      {
+        "point1": 5,
+        "point2": 11,
+        "oneWayRoad": 0 
+      },
+      {
+        "point1": 9,
+        "point2": 11,
+        "oneWayRoad": 0  
+      },
+      {
+        "point1": 10,
+        "point2": 12,
+        "oneWayRoad": -1 
+      },
+      {
+        "point1": 13,
+        "point2": 14,
+        "oneWayRoad": 0   
+      },
+      {
+        "point1": 7,
+        "point2": 13,
+        "oneWayRoad": 0  
+      },
+      {
+        "point1": 7,
+        "point2": 13,
+        "oneWayRoad": 0
+      },
+      {
+        "point1": 13,
+        "point2": 14,
+        "oneWayRoad":  0
+      },
+      {
+        "point1": 5,
+        "point2": 15,
+        "oneWayRoad":  0
+      },
+      {
+        "point1": 15,
+        "point2": 16,
+        "oneWayRoad": 0  
+      },
+      {
+        "point1": 15,
+        "point2": 17,
+        "oneWayRoad": 0  
+      },
+      {
+        "point1": 17,
+        "point2": 18,
+        "oneWayRoad": 0  
+      },
+      {
+        "point1": 12,
+        "point2": 19,
+        "oneWayRoad": -1  
+      },
+      {
+        "point1": 14,
+        "point2": 19,
+        "oneWayRoad": 0 
+      }
     ]
 }
