@@ -13,7 +13,10 @@
     "10": "Nguyễn Trường Tộ",
     "11": "Phan Huy Ích",
     "12": "Quán Thánh",
-    "13": "Hàng bún"
+    "13": "Hàng bún",
+    "14": "Unknown 0",
+    "15": "Unknown 1",
+    "16": "Unknown 2"
   },
   "point":{
     "1": {"y": 21.043247, "x": 105.847559, "streetList": [0, 2]},
@@ -31,10 +34,26 @@
     "13": {"y": 21.041101, "x": 105.848283, "streetList": [7, 8]},
     "14": {"y": 21.040775, "x": 105.848401, "streetList": [7, 9]},
     "15": {"y": 21.042150, "x": 105.846119, "streetList": [10, 11]},
-    "16": {"y": 21.042324, "x": 105.845247, "streetList": [10, 13]},
+    "16": {"y": 21.042329, "x": 105.845241, "streetList": [10, 13]},
     "17": {"y": 21.041641, "x": 105.845787, "streetList": [11, 13]},
     "18": {"y": 21.041965, "x": 105.845083, "streetList": [13]},
-    "19": {"y": 21.040479, "x": 105.849207, "streetList": [6, 9]}
+    "19": {"y": 21.040302, "x": 105.848553, "streetList": [6, 9]},
+    "20": {"y": 21.044629, "x": 105.846058,"streetList":[2]}, 
+    "21": {"y": 21.044405, "x": 105.845987, "streetList":[4]},
+    "22": {"y": 21.043917, "x": 105.845766, "streetList":[3]},
+    "23": {"y": 21.043401, "x": 105.845619, "streetList":[0]},
+    "24": {"y": 21.041254, "x": 105.844611, "streetList":[12]},
+    "25": {"y": 21.041000, "x": 105.845399, "streetList":[11]},
+    "26": {"y": 21.040729, "x": 105.845817, "streetList":[5]},
+    "27": {"y": 21.040059, "x": 105.847744, "streetList":[1, 9]},
+    "28": {"y": 21.041257, "x": 105.848936, "streetList":[6, 8]},
+    "29": {"y": 21.043471, "x": 105.845409, "streetList":[0]},
+    "30": {"y": 21.040310, "x": 105.847373, "streetList":[12]},
+    "31": {"y": 21.040173, "x": 105.848089, "streetList":[9]},
+    "32": {"y": 21.041231, "x": 105.846412, "streetList":[5]},
+    "33": {"y": 21.044924, "x": 105.846157, "streetList": [2]},
+    "34": {"y": 21.043811, "x": 105.847441, "streetList": [2]},
+    "35": {"y": 21.042074, "x": 105.848921, "streetList": [2]}
   },
   "road":
     [
@@ -114,14 +133,9 @@
         "oneWayRoad": 0
       },
       {
-        "point1": 13,
-        "point2": 14,
-        "oneWayRoad":  0
-      },
-      {
         "point1": 5,
         "point2": 15,
-        "oneWayRoad":  0
+        "oneWayRoad": 0
       },
       {
         "point1": 15,
@@ -139,14 +153,115 @@
         "oneWayRoad": 0  
       },
       {
+        "point1": 14,
+        "point2": 19,
+        "oneWayRoad": 0 
+      },
+      {
+        "point1": 3,
+        "point2": 20,
+        "oneWayRoad": -1 
+      },
+      {
+        "point1": 4,
+        "point2": 21,
+        "oneWayRoad": 0
+      },
+      {
+        "point1": 2,
+        "point2": 22,
+        "oneWayRoad": 0 
+      },
+      {
+        "point1": 23,
+        "point2": 29,
+        "oneWayRoad": 1 
+      },
+      {
+        "point1": 16,
+        "point2": 18,
+        "oneWayRoad": 0 
+      },
+      {
+        "point1": 16,
+        "point2": 23,
+        "oneWayRoad": 0 
+      },
+      {
+        "point1": 16,
+        "point2": 18,
+        "oneWayRoad": 0 
+      },
+      {
+        "point1": 18,
+        "point2": 24,
+        "oneWayRoad": 0
+      },
+      {
+        "point1": 17,
+        "point2": 25,
+        "oneWayRoad": 0 
+      },
+      {
+        "point1": 8,
+        "point2": 27,
+        "oneWayRoad": -1 
+      },
+      {
+        "point1": 19,
+        "point2": 31,
+        "oneWayRoad": -1 
+      },
+      {
         "point1": 12,
         "point2": 19,
         "oneWayRoad": -1  
       },
       {
-        "point1": 14,
-        "point2": 19,
+        "point1": 13,
+        "point2": 28,
+        "oneWayRoad": 0 
+      },
+      {
+        "point1": 12,
+        "point2": 28,
+        "oneWayRoad": 0 
+      },
+      {
+        "point1": 1,
+        "point2": 9,
+        "oneWayRoad": 1
+      },
+      {
+        "point1": 8,
+        "point2": 30,
+        "oneWayRoad": 1
+      },
+      {
+        "point1": 27,
+        "point2": 31,
+        "oneWayRoad": 1
+      },
+      {
+        "point1": 26,
+        "point2": 32,
+        "oneWayRoad": 0
+      },
+      {
+        "point1": 33,
+        "point2": 34,
+        "oneWayRoad": -1
+      },
+      {
+        "point1": 34,
+        "point2": 35,
+        "oneWayRoad": -1 
+      },
+      {
+        "point1": 3,
+        "point2": 34,
         "oneWayRoad": 0 
       }
+      
     ]
 }
